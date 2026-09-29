@@ -18,6 +18,5 @@ Vou manter neste repositorio arquivos de exercícios e arquivo de consulta rápi
 # Os projetos de estudo que vou inserindo
 
 ### PROJETO 1 - Escola - Base de dados para criar tabelas, inserir dados, pesquisar informações (Alura: SQLite online: conhecendo instruções SQL)
-Projeto desenvolvido no SQLite 0.2 beta (https://sqliteonline.com/)
 
-ESCOPO:
+
